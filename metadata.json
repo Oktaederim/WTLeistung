@@ -1,0 +1,5 @@
+{
+  "name": "HVAC Leistungsrechner",
+  "description": "Eine Webanwendung zur Berechnung der Leistung von Erhitzern und Kühlern in Lüftungsanlagen. Berechnet Leistung, Massenstrom und die resultierende Luftfeuchtigkeit basierend auf den Eingabeparametern.",
+  "requestFramePermissions": []
+}
